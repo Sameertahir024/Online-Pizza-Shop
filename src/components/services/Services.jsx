@@ -27,7 +27,7 @@ const Services = () => {
   return (
     <>
       <span id="services"></span>
-      <div className=" max-w-[1500px] mx-auto p-5">
+      <div className=" max-w-[1500px] mx-auto p-5 mt-5">
         <div className="">
           <div className="text-center mb-20 max-w-[400px] mx-auto">
             <p className="text-sm bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary ">
