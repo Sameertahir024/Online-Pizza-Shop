@@ -27,7 +27,7 @@ const Banner = () => {
               {/* Image section */}
               <div>
                 <img
-                  src="/biryani5.png"
+                  src="/biryani2.png"
                   alt="biryani img"
                   className="max-w-[430px] w-full mx-auto drop-shadow-[-10px_10px_12px_rgba(0,0,0,1)]"
                 />

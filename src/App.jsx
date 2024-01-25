@@ -9,7 +9,7 @@ import Testimonial from "./components/testimonial/Testimonial";
 
 function App() {
   return (
-    <>
+    <div className="bg-white dark:bg-slate-900 dark:text-white">
       <Navbar />
       <Hero />
       <Services />
@@ -17,7 +17,7 @@ function App() {
       <AppStore />
       <Testimonial />
       <Footer />
-    </>
+    </div>
   );
 }
 
