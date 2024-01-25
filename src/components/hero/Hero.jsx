@@ -30,12 +30,12 @@ const Hero = () => {
               {" "}
               Welcome to the <span className="text-amber-900">Food</span> Zone
             </h1>
-            <p className="text-xl">
+            <p className="hidden lg:flex text-xl">
               Download SavoryBite today and embark on a delightful adventure in
               the world of flavors, tastes, and creativity.
             </p>
             <div>
-              <button className=" bg-gradient-to-r from-amber-600 to-pink-500  py-2 px-4 rounded-full shadow-xl hover:shadow-md">
+              <button className="hidden lg:flex bg-gradient-to-r from-amber-600 to-pink-500  py-2 px-4 rounded-full shadow-xl hover:shadow-md">
                 Order Now
               </button>
             </div>
